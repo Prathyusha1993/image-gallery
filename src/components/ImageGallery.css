@@ -1,13 +1,15 @@
 .filter-buttons {
-    margin-bottom: 20px;
+    margin-top: 20px;
 }
 .filter-buttons button {
     margin-right: 10px;
 }
+
 .gallery {
     display: flex;
     flex-wrap: wrap;
 }
+
 .gallery img {
     width: 200px;
     height: 200px;
